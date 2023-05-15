@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @fancytigerdustball
-- 👀 I’m interested in learning programming languages and writing computer games
-- 🌱 I’m currently learning how to make websites
-- 🧠 I know languages Python, a little bit of HTML, and a little CSS
-- And I like emoji stuff :trollface:
+I am fancytigerdust ball. I like programming games with python, and I am learning how to build websites. I would like to learn C++ or Java.
