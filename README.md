@@ -1,5 +1,4 @@
-I'm fancytigerdustball.
-
-I like programming games with Python, and I am learning Java.
-
-I know Python and a little of HTML, CSS, and JavaScript.
+Hi, I'm fancytigerdustball!
+I mostly program with Python because it's the only language I know very well.
+I also do a little bit of website-type languages, that is, HTML, CSS, and Javascript.
+I do programming as a hobby, and mostly make simple (but fun!) games. Nothing super serious.
